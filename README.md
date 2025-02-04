@@ -1,4 +1,4 @@
-<h3> Hi, I'm <b>Eduardo Robles Russo</b>.</h3>
+<h3> Hi, I'm <b>Eduardo</b>.</h3>
 
 <hr>
 <h3> 💻 &nbsp;About Me </h3>
