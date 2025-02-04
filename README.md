@@ -1,12 +1,13 @@
+<h3> Hi, I'm <b>Eduardo Robles Russo</b>.</h3>
+
+<hr>
 <h3> 💻 &nbsp;About Me </h3>
 
 <hr>
-
 <pre>
-  👋 Hi, I'm <b>Eduardo Robles Russo</b>.
   🎓 Software Engineering student at Seville University.
   📝 Passionate about Data Science, Software Development, and IoT.
-  🤔 Currently looking for new <b>job opportunities</b>. Here is <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">MY CV</a>.
+  🤔 Currently looking for new <b>job opportunities</b>. Here is <a href="https://drive.google.com/file/d/1lh87tOCnjv9mSoGJ7vWmLxUJpNBsGzGQ/view?usp=sharing" target="_blank">MY CV</a>.
 </pre>
 <hr>
 
