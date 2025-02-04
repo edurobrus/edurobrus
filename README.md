@@ -6,7 +6,7 @@
   👋 Hi, I'm <b>Eduardo Robles Russo</b>.
   🎓 Software Engineering student at Seville University.
   📝 Passionate about Data Science, Software Development, and IoT.
-  🤔 Currently looking for new <b>job opportunities</b>. Here is <a href="https://drive.google.com/file/d/1O5-rA5xMZTt2EUavc59xGquovMU8lqFm/view?usp=drive_link" target="_blank">MY CV</a>.
+  🤔 Currently looking for new <b>job opportunities</b>. Here is <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">MY CV</a>.
 </pre>
 <hr>
 
