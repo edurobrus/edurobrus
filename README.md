@@ -1,13 +1,12 @@
-![Header](./images/header-image.png)
-
 <h3> 💻 &nbsp;About Me </h3>
 
 <hr>
 
 <pre>
-  🎓 Studying Software Engineering at Seville University.
-  📝 I have a strong interest in Data Science and Software Development.
-  🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1O5-rA5xMZTt2EUavc59xGquovMU8lqFm/view?usp=drive_link" target="_blank">MY CV</a>.
+  👋 Hi, I'm <b>Eduardo Robles Russo</b>.
+  🎓 Software Engineering student at Seville University.
+  📝 Passionate about Data Science, Software Development, and IoT.
+  🤔 Currently looking for new <b>job opportunities</b>. Here is <a href="https://drive.google.com/file/d/1O5-rA5xMZTt2EUavc59xGquovMU8lqFm/view?usp=drive_link" target="_blank">MY CV</a>.
 </pre>
 <hr>
 
