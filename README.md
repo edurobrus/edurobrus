@@ -1,7 +1,7 @@
 <h3> Hi, I'm <b>Eduardo</b>.</h3>
 
 <hr>
-<h3> 💻 &nbsp;About Me </h3>
+<h3> 💻  About Me </h3>
 
 <hr>
 <pre>
@@ -11,7 +11,7 @@
 </pre>
 <hr>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠  Tech Stack</h3>
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" alt="Spring Boot Badge">
+  <img src="https://img.shields.io/badge/Odoo-7C8F9A?logo=odoo&logoColor=fff&style=for-the-badge" alt="Odoo Badge">
 </p>
 
 <h4> Databases</h4>
@@ -46,7 +47,7 @@
 
 <hr>
 
-<h3>⚡ &nbsp;Connect with me </h3>
+<h3>⚡  Connect with me </h3>
 <p>
 	<a href="mailto:eduroblesrusso82@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
 	<a href="https://www.linkedin.com/in/eduardo-robles-russo-5133912b1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
